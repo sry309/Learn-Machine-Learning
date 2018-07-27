@@ -6,8 +6,10 @@
    :maxdepth: 2
    :caption: Contents:
 
+   basic
    algos/index
    models/index
+   nlp/index
    tools/index
    data
 

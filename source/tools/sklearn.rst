@@ -60,4 +60,4 @@ one-hot编码是一种对离散特征值的编码方式，在LR模型中常用�
 
     data = [[0, 0, 3], [1, 1, 0], [0, 2, 1], [1, 0, 2]]
     encoder = preprocessing.OneHotEncoder().fit(data)
-    enc.transform(data).toarray()
+    encoder.transform(data).toarray()

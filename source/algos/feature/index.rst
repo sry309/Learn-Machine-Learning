@@ -1,8 +1,9 @@
-模型
+特征提取算法
 ================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   randomforest
+   onehot
+   tf-idf
