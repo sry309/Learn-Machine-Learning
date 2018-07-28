@@ -9,6 +9,7 @@
    basic
    algos/index
    models/index
+   dl/index
    nlp/index
    tools/index
    data

@@ -1,14 +1,8 @@
-工具
+深度学习
 ================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   numpy
-   pandas
-   matplotlib
-   seaborn
-   scipy
-   sklearn
-   keras
+   basic
