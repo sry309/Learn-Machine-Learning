@@ -11,6 +11,7 @@
    models/index
    dl/index
    nlp/index
+   vuln/index
    tools/index
    data
 
