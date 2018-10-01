@@ -6,6 +6,7 @@
    :caption: Contents:
 
    basic
+   rl
    cnn
    rnn
    dnn
