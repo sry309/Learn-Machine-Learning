@@ -13,8 +13,3 @@ Keras是一个高层神经网络API，Keras由纯Python编写而成并基Tensorf
 Keras的底层库使用Theano或TensorFlow，这两个库也称为Keras的后端。无论是Theano还是TensorFlow，都是一个“符号式”的库。
 
 这使得Keras的编程与传统的Python代码有所区别，简单来说，符号计算首先定义各种变量，然后建立一个“计算图”，其中规定了各个变量之间的计算关系。建立好的计算图需要编译以确定其内部细节。
-
-
-参考链接
-------------------------------------------------------------
-- `keras中文文档 <http://keras-cn.readthedocs.io>`_

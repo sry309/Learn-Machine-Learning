@@ -10,3 +10,4 @@
    cnn
    rnn
    dnn
+   lstm

@@ -7,6 +7,7 @@
    :caption: Contents:
 
    basic
+   math
    algos/index
    models/index
    dl/index
@@ -14,6 +15,7 @@
    vuln/index
    tools/index
    data
+   ref
 
 
 目录

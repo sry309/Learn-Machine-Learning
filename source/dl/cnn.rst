@@ -36,7 +36,3 @@
 .. |giphy| image:: ../images/giphy.gif
 .. |relu_process| image:: ../images/relu_process.png
 .. |mal_pooling_sample| image:: ../images/mal_pooling_sample.png
-
-参考链接
-------------------------------------------------------------
-- `An Intuitive Explanation of Convolutional Neural Networks <https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/>`_

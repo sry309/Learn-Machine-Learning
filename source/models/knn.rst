@@ -25,8 +25,3 @@ k近邻法(k-nearest neighbors)是由Cover和Hart于1968年提出的，它是懒
 - 计算复杂性高空间复杂性高
 - 样本不平衡问题（即有些类别的样本数量很多，而其它样本的数量很少）
 - 无法给出数据的内在含义
-
-
-参考链接
-------------------------------------------------------------
-- `KNN介绍 <https://github.com/wmpscc/ML-DL/tree/master/kNN?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io>`_
