@@ -1,8 +1,9 @@
 优化算法
-================================
+========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    gd
+   evolutionary
