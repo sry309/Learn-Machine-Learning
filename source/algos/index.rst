@@ -5,5 +5,5 @@
    :maxdepth: 2
    :caption: Contents:
 
-   feature/index
-   optimize/index
+   evolutionary
+   gd

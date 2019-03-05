@@ -11,3 +11,4 @@
    rnn
    dnn
    lstm
+   gru

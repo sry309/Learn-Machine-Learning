@@ -8,13 +8,13 @@
 
    basic
    math
+   data/index
    algos/index
    models/index
    dl/index
    nlp/index
    vuln/index
    tools/index
-   data
    ref
 
 

@@ -18,3 +18,9 @@ KNN
 文档
 ------------------------------------------------------------
 - `keras中文文档 <https://keras.io/zh/>`_
+
+参考论文
+------------------------------------------------------------
+- `Sequence to Sequence Learning with Neural Networks <http://arxiv.org/abs/1409.3215>`_
+- `Learning Phrase Representations using RNN Encoder Decoder for Statistical Machine Translation <http://arxiv.org/abs/1406.1078>`_
+- `Neural Machine Translation by Jointly Learning to Align and Translate <http://arxiv.org/abs/1409.0473>`_
